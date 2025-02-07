@@ -20,7 +20,7 @@
 <body>
     <h1>İddaa Tahmin - Gizlilik Politikası</h1>
     
-    <p>Son güncelleme: [Tarih]</p>
+    <p>Son güncelleme: [07.02.2025]</p>
 
     <h2>1. Toplanan Bilgiler</h2>
     <p>Uygulamamız aşağıdaki bilgileri toplar:</p>
@@ -72,7 +72,7 @@
 
     <h2>8. İletişim</h2>
     <p>Gizlilik politikamızla ilgili sorularınız için:</p>
-    <p>E-posta: [E-posta Adresi]</p>
+    <p>E-posta: dogukanm52@gmail.com</p>
 
     <h2>9. Değişiklikler</h2>
     <p>Bu gizlilik politikası zaman zaman güncellenebilir. Önemli değişiklikler olması durumunda kullanıcılar bilgilendirilecektir.</p>
