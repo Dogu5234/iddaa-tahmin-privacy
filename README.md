@@ -1,4 +1,3 @@
-# iddaa-tahmin-privacy
 <!DOCTYPE html>
 <html lang="tr">
 <head>
