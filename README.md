@@ -2,25 +2,15 @@
 <html lang="tr">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="İddaa Tahmin uygulamasının gizlilik politikası. Kişisel verilerinizin nasıl işlendiğini öğrenin.">
     <title>İddaa Tahmin - Gizlilik Politikası</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        h1, h2 {
-            color: #1E88E5;
-        }
-    </style>
 </head>
 <body>
     <h1>İddaa Tahmin - Gizlilik Politikası</h1>
     
-    <p>Son güncelleme: [07.02.2025]</p>
+    <p><strong>Son güncelleme:</strong> 07 Şubat 2025</p>
 
     <h2>1. Toplanan Bilgiler</h2>
     <p>Uygulamamız aşağıdaki bilgileri toplar:</p>
@@ -71,8 +61,9 @@
     </ul>
 
     <h2>8. İletişim</h2>
-    <p>Gizlilik politikamızla ilgili sorularınız için:</p>
-    <p>E-posta: dogukanm52@gmail.com</p>
+    <p>Gizlilik politikamızla ilgili sorularınız için: 
+        <a href="mailto:dogukanmutlu5234@gmail.com">dogukanmutlu5234@gmail.com</a>
+    </p>
 
     <h2>9. Değişiklikler</h2>
     <p>Bu gizlilik politikası zaman zaman güncellenebilir. Önemli değişiklikler olması durumunda kullanıcılar bilgilendirilecektir.</p>
